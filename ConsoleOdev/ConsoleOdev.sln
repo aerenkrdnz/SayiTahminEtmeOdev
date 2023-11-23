@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleOdev", "ConsoleOdev\ConsoleOdev.csproj", "{E9DDEF56-7AD7-49C8-9BC3-FBB28ED4DE13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9DDEF56-7AD7-49C8-9BC3-FBB28ED4DE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DDEF56-7AD7-49C8-9BC3-FBB28ED4DE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DDEF56-7AD7-49C8-9BC3-FBB28ED4DE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DDEF56-7AD7-49C8-9BC3-FBB28ED4DE13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B4072B1-5D46-4DC2-9C18-A34DB4BBDBE0}
+	EndGlobalSection
+EndGlobal
